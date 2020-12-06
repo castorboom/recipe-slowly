@@ -1,0 +1,14 @@
+{
+  "id": "slowly",
+  "name": "SLOWLY",
+  "version": "1.0.24",
+  "description": "SLOWLY",
+  "main": "index.js",
+  "author": "Loris Castorani <castorboom@gmail.com>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://web.slowly.app/home",
+    "hasNotificationSound": true,
+    "disablewebsecurity": true
+  }
+}
